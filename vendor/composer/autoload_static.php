@@ -12,6 +12,10 @@ class ComposerStaticInitb8be349950e64cb1cfdb95cbe5101336
             'Psr\\Log\\' => 8,
             'ProgrammerZamanNow\\' => 19,
         ),
+        'O' => 
+        array (
+            'OsyKunchen\\Belajar\\' => 19,
+        ),
         'M' => 
         array (
             'Monolog\\' => 8,
@@ -26,6 +30,10 @@ class ComposerStaticInitb8be349950e64cb1cfdb95cbe5101336
         'ProgrammerZamanNow\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'OsyKunchen\\Belajar\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/osykunchen/belajar-php-composer-hello/src',
         ),
         'Monolog\\' => 
         array (

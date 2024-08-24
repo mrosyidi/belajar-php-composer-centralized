@@ -8,5 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
     'ProgrammerZamanNow\\' => array($baseDir . '/src'),
+    'OsyKunchen\\Belajar\\' => array($vendorDir . '/osykunchen/belajar-php-composer-hello/src'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
 );
