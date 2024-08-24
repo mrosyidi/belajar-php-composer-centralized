@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'bf31de7a690194fca11a30f413d38576f0802f0f',
+        'reference' => '9acc73ccac489c09536f89ece18af0f98f034739',
         'name' => 'programmerzamannow/belajar-php-composer',
         'dev' => true,
     ),
@@ -20,12 +20,12 @@
             'dev_requirement' => false,
         ),
         'osykunchen/belajar-php-composer-hello' => array(
-            'pretty_version' => '1.0.0',
-            'version' => '1.0.0.0',
+            'pretty_version' => '2.0.0',
+            'version' => '2.0.0.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../osykunchen/belajar-php-composer-hello',
             'aliases' => array(),
-            'reference' => '9521d7efd67bf18e740f1ee3b9b5830f7880004b',
+            'reference' => '6b6e44dc2d041f6805c4757542d5eeabceba4d93',
             'dev_requirement' => false,
         ),
         'programmerzamannow/belajar-php-composer' => array(
@@ -34,7 +34,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'bf31de7a690194fca11a30f413d38576f0802f0f',
+            'reference' => '9acc73ccac489c09536f89ece18af0f98f034739',
             'dev_requirement' => false,
         ),
         'psr/log' => array(
