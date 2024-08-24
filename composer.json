@@ -20,7 +20,7 @@
       }
     ],
     "require": {
-      "osykunchen/belajar-php-composer-hello": "1.0.0",
+      "osykunchen/belajar-php-composer-hello": "2.0.0",
       "monolog/monolog": "2.2.0"
     }
 }
